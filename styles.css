@@ -1,0 +1,52 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: green;
+    font-family: Arial;
+}
+
+ol {
+    font-family: cursive;
+}
+
+ul {
+    font-size: 28px;
+}
+
+table {
+    border-width: medium;
+    border-style: bold;
+}
+
+tr {
+    border-width: medium;
+    border-style: bold;
+    background-color: purple;
+}
+
+.cell {
+    background-color: orange;
+}
+
+.center {
+    margin: 2px auto;
+}
+
+.btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
